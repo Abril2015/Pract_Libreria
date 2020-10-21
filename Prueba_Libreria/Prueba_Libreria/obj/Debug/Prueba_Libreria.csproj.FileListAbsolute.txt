@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Prueba_Libreria\Prueba_Libreria\bin\Debug\Prueba_Libreria.dll
+C:\Users\usuario\Desktop\Prueba_Libreria\Prueba_Libreria\bin\Debug\Prueba_Libreria.pdb
+C:\Users\usuario\Desktop\Prueba_Libreria\Prueba_Libreria\obj\Debug\Prueba_Libreria.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Prueba_Libreria\Prueba_Libreria\obj\Debug\Prueba_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Prueba_Libreria\Prueba_Libreria\obj\Debug\Prueba_Libreria.dll
+C:\Users\usuario\Desktop\Prueba_Libreria\Prueba_Libreria\obj\Debug\Prueba_Libreria.pdb
